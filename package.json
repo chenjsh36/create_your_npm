@@ -1,6 +1,6 @@
 {
   "name": "npm-demo-by-cjs",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A demo package for a video",
   "main": "index.js",
   "scripts": {
